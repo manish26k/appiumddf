@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.automationtesting.excelreport.Xl;
+//import org.automationtesting.excelreport.Xl;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -127,7 +127,7 @@ public class androidCapabilities2
   
   @AfterSuite
   public void generateReport() throws Exception {
-	  Xl.generateReport("excel-report.xlsx");
+	 // Xl.generateReport("excel-report.xlsx");
   }
    
    
