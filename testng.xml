@@ -13,10 +13,10 @@
   <test name="Test">
   <classes>
   <class name="AmazonHydridFramework.Testcases.ddfLoginTest"/>
-  <class name="AmazonHydridFramework.Testcases.CheckOutPageTest"/>
+  <!--<class name="AmazonHydridFramework.Testcases.CheckOutPageTest"/>
   <class name="AmazonHydridFramework.Testcases.CartPageTest"/>
   <class name="AmazonHydridFramework.Testcases.SearchPageTest"/>
-  <class name="AmazonHydridFramework.Testcases.SignUpPageTest"/>
+  <class name="AmazonHydridFramework.Testcases.SignUpPageTest"/> -->
   <class name="AmazonHydridFramework.Testcases.WelcomePageTest"/>
   
   </classes>
